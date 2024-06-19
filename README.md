@@ -4,7 +4,7 @@
 My name is Bhaagyesh Sajja\
 I am a Computer Science undergrad at IIT(BHU) Varanasi. My interests lie in the fields of Machine Learning, Development and football.
 - I am currently learning about MultiModal Machine Learning and Vision LLMs.
-- I love exploring and developing AI based solutions and agents for simulating complex tasks accurately.
+- I love exploring and developing AI based solutions for accurately simulating complex real-world tasks.
 
 ### Tools and Languages
 <code>
