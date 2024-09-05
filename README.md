@@ -2,7 +2,7 @@
 ## Hey there.
 
 I'm Bhaagyesh, a Computer Science undergrad at IIT(BHU) Varanasi. My interests lie in the fields of Machine Learning, Development and football. 
-- I am currently learning about MultiModal Machine Learning and Vision LLMs.
+- I am currently learning about MultiModal Machine Learning and LLMs.
 - I love exploring and developing AI based solutions for accurately simulating complex real-world tasks.
 
 ### Tools and Languages
