@@ -1,7 +1,7 @@
 
 ## Hey there.
 
-I'm Bhaagyesh, a Computer Science undergrad at IIT(BHU) Varanasi. My interests lie in the fields of Machine Learning, Development and football. 
+I'm Bhaagyesh, a Computer Science undergrad at IIT(BHU) Varanasi. 
 
 ### Tools and Languages
 
