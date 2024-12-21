@@ -1,6 +1,6 @@
 ## Hey there.
 
-I like exploring and developing AI-based systems for solving critical usecases. 
+I like exploring and developing AI-based solutions for solving critical usecases. 
 
 ## Languages and Tools :
 
